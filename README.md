@@ -7,15 +7,17 @@
 - 👯 Trabalhando na indra
 - 📫 Qualquer coisa envie uma email para: ygohamonsh@gmail.com
  
- ![CatComputerGIF](https://user-images.githubusercontent.com/31461178/145721200-2423d30a-ddd4-4a45-bf1d-580d82010c63.gif)
-#### Comits!
+ 
 <div aling="center">
   <a href="https://github.com/ygohamon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ygohamon&show_icons=true&theme=blue-green&include_all_comits=true&count_private=true"/>
-<div/>
+   
+ ![CatComputerGIF](https://user-images.githubusercontent.com/31461178/145721200-2423d30a-ddd4-4a45-bf1d-580d82010c63.gif)
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/?username=ygohamon&show_icons=true&theme=blue-green&include_all_comits=true&count_private=true"/>
+ 
+ <div/>
 
 ## 🧑‍💻 Minhas Skills!!!
-<div style="display: inline_block">
+<div >
 <!--   JavaScript -->
   <img align="center" alt="Ygo-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   TypeScript -->
@@ -37,7 +39,7 @@
 </div><br>
    
   <a href="https://github.com/ygohamon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygohamon&layout=compact&langs_count=7&theme=blue-green"/><br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygohamon&layout=compact&langs_count=7&theme=blue-green"/><br>
   </a>
    
 ## 📲 Contatos:
