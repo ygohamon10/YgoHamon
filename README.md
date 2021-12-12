@@ -10,10 +10,10 @@
  
 <div aling="center">
   <a href="https://github.com/ygohamon">
-   
- ![CatComputerGIF](https://user-images.githubusercontent.com/31461178/145721200-2423d30a-ddd4-4a45-bf1d-580d82010c63.gif)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ygohamon&show_icons=true&theme=blue-green&include_all_comits=true&count_private=true"/>
- 
+  
+   ![CatComputerGIF](https://user-images.githubusercontent.com/31461178/145721200-2423d30a-ddd4-4a45-bf1d-580d82010c63.gif)
+
  <div/>
 
 ## 🧑‍💻 Minhas Skills!!!
