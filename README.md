@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando atualmente com NodeJs, ReactJs e AngularJs
 - 🌱 Estudando atualmente NodeJs e RectNative
-- 👯 Trabalhando na indra
+- 👯 Trabalhando na IBM
 - 📫 Qualquer coisa envie uma email para: ygohamonsh@gmail.com
  
  
