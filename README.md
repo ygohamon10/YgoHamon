@@ -2,7 +2,7 @@
 
 ## 😁 Vamos falar pouco sobre min!
 
-- 🖥 Trabalhando atualmente com NodeJs, ReactJs e AngularJs
+- 🖥 Trabalhando atualmente com NodeJs, React e Angular
 - 👨🏾‍🏫 Aprimorando conhecimento em React, Next, RectNative
 - 👨🏾‍💻 Trabalhando atualmente na IBM
 - 📫 Qualquer coisa envie uma email para: ygohamonsh@gmail.com
